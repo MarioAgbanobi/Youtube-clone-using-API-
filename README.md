@@ -2,6 +2,7 @@
 ![Screenshot (285)](https://user-images.githubusercontent.com/72680556/188513892-41d062b4-c262-471a-8f90-96e3854c06ea.png)
 
 # Introduction
+Youtube clone used for searching videos to self educate or entertainment purpose.
 
 # Youtube-clone-feed
 ![Screenshot (289)](https://user-images.githubusercontent.com/72680556/188513879-eafac119-cd02-4776-9fc9-0eebc7c5e071.png)
